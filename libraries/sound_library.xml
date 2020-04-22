@@ -3,14 +3,14 @@
 <diff>
   <add sel="/soundlibrary">
 	<sound id="99972009_normal" description="Better piracy - Threats" repeat="1" is3d="1" preload="0">
-		<sample start="extensions\ror\voice\99972009\normal" />
+		<sample start="extensions\add_voice_minimal_example\voice\99972009\normal" />
 		<effects>
 			<filter mode="bandpass" frequency="0.26" oneoverq="1.45" />
 			<reverb room="sewer pipe" roomsize="10" drymix="5" density="90" />
 		</effects>
 	</sound>
 	<sound id="99972009_comm" description="Better piracy - Threats" repeat="1" is3d="1" preload="0">
-		<sample start="extensions\ror\voice\99972009\normal" />
+		<sample start="extensions\add_voice_minimal_example\voice\99972009\normal" />
 		<effects>
 			<filter mode="bandpass" frequency="0.26" oneoverq="1.45" />
 			<reverb room="sewer pipe" roomsize="10" drymix="5" density="90" />
