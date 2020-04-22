@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- General language file: applies to all which does not have their own language files -->
+<diff>
+  <add sel="/language">
+    <page id="99972009" title="Better piracy - Threats" descr="" voice="yes">
+      <t id="4401">The battle is over, abandon your ship immediately!</t>
+    </page>
+  </add>
+</diff>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>	
+	<!-- Speak the custom line everytime you damage any ship -->
+	<add sel="//cue[@name='PlayerOwnedShipAttacks']/actions">
+		<debug_text text="'Custom voice: Before speak'"/>
+        <speak actor="player.computer" page="99972009" line="4401" priority="90"/>
+        <debug_text text="'Custom voice: After speak'"/>
+	</add>
+</diff>
